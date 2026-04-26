@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://oxagen.ai/logo-gradient.svg" alt="Oxagen" width="200" />
+<img src="https://oxagen.ai/logos/oxagen-logo-adaptive.svg" alt="Oxagen" width="200" />
 
 # Context Infrastructure for AI Agents
 
